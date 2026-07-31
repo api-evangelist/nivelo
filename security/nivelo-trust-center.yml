@@ -1,0 +1,22 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://nivelo.io/security
+url: https://nivelo.io/security
+certifications:
+- SOC 2 Type 2
+- FCRA
+- CCPA
+- GDPR
+compliance_notes: >-
+  Nivelo's security page (https://nivelo.io/security) states the company is "SOC 2
+  Type 2 Certified", "FCRA Compliant", "CCPA & GDPR Compliant", and "Insured and
+  Audited", and describes embedding security practices into its engineering processes.
+evidence:
+- source: https://nivelo.io/security
+  keywords:
+  - soc 2 type 2 certified
+  - fcra compliant
+  - ccpa
+  - gdpr compliant
+  - insured and audited

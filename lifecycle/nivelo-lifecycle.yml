@@ -1,0 +1,13 @@
+generated: '2026-07-20'
+method: searched
+source: https://nivelo.io/
+status_page: https://status.nivelo.io/
+versioning: null
+deprecation: null
+sla: null
+deprecated_operations: []
+notes: >-
+  Nivelo publishes a public status page at https://status.nivelo.io/ (linked from the
+  site footer as "API Status"). No public versioning policy, deprecation policy, or SLA
+  document was found on the provider's public surface; the developer/API documentation
+  is gated (docs.nivelo.io redirects and there is no public reference).

@@ -1,0 +1,26 @@
+generated: '2026-07-20'
+method: searched
+source: https://nivelo.io/
+docs: https://nivelo.io/
+summary:
+  types:
+  - http
+  http_schemes:
+  - bearer
+  api_key_in: []
+  oauth2_flows: []
+schemes:
+- name: bearerAuth
+  type: http
+  scheme: bearer
+  description: >-
+    Nivelo's Scorer API is authenticated with a Bearer token (API key) passed in the
+    HTTP Authorization header. A test environment / test API key is available for
+    integration before going live.
+  sources:
+  - https://nivelo.io/
+notes: >-
+  Derived from Nivelo's published API description (RESTful Scorer endpoint at
+  https://api.nivelo.io/scorer using Bearer token authorization with an API key).
+  No OpenAPI is published by the provider, so this profile is captured from the docs
+  rather than derived from a spec.
