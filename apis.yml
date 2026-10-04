@@ -54,6 +54,19 @@ tags:
 - ACH
 - Fintech
 - Payroll
+- Risk Management
+- Fraud Prevention
+- Money Movement
+- Real-Time Payments
+- Treasury
+- FedNow
+- RTP
+tags_raw:
+- Company
+- Payments
+- ACH
+- Fintech
+- Payroll
 - Risk
 - Fraud Detection
 - Money Movement
@@ -72,6 +85,11 @@ apis:
   humanURL: https://nivelo.io/
   baseURL: https://api.nivelo.io
   tags:
+  - Payments
+  - ACH
+  - Risk Scoring
+  - Fraud Prevention
+  tags_raw:
   - Payments
   - ACH
   - Risk Scoring
