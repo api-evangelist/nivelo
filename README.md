@@ -64,6 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nivelo is a company surfaced as a portfolio company of anthemis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Nivelo is a New York City fintech that operates a payments risk and money-movement platform for the payroll industry, serving payment service providers (PSPs) and professional employer organizations (PEOs). Nivelo provides real-time payment risk intelligence and automated money movement across ACH, Wires, RTP, and FedNow rails, with capabilities including NSF (non-sufficient funds) prevention, ACH returns management, KYB and fraud monitoring, and treasury management. Its products include Exposure Scan (payment-risk identification), the Scorer Engine (a real-time ACH return-risk scoring API that predicts the likelihood of an ACH transaction failing before origination), and Instant Payroll (instant debits with auto-routing across payment rails to reduce failed payroll disbursements). Nivelo was founded in 2020 by Eli Polanco and Philippe Legault and raised a $2.5M seed round led by FirstMark, Barclays, and Anthemis.
 
-Backed by: anthemis
+**Areas:** Company · Payments · ACH · Fintech · Payroll · Risk Management · Fraud Prevention · Money Movement · Real-Time Payments · Treasury · FedNow · RTP
+
+## Nivelo on APIs.io
+
+Everything profiled for Nivelo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nivelo/](https://apis.io/providers/nivelo/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Nivelo Scorer API](https://apis.io/apis/nivelo/nivelo-scorer-api/) — Nivelo's real-time ACH return-risk scoring API. A RESTful endpoint that accepts ACH transaction data as JSON and returns a risk score and a prediction of…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nivelo Authentication](https://apis.io/security/nivelo/nivelo-authentication/)
+- [Nivelo Domain Security](https://apis.io/security/nivelo/nivelo-domain-security/)
+- [Nivelo Trust Center](https://apis.io/security/nivelo/nivelo-trust-center/)
+- [Nivelo Vulnerability Disclosure](https://apis.io/security/nivelo/nivelo-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nivelo.io/)
+- [Sign up](https://nivelo.io/employer/sign-up-nivelo)
+- [Support](https://nivelo.io/contact)
+- [Blog](https://nivelo.io/blog)
+- [Security](https://nivelo.io/security)
+- [Compliance](https://nivelo.io/security)
+- [Terms of service](https://nivelo.io/terms)
+- [Privacy policy](https://nivelo.io/privacy)
+- [Status](https://status.nivelo.io/)
+
+## API Evangelist rating
+
+**Kin Score 25.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 50.0 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 27.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nivelo/](https://apis.io/providers/nivelo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nivelo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nivelo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
